@@ -1,6 +1,6 @@
 # Web5 Nexus
 
-[![Web5 Nexus](https://i.ibb.co/yShkFGZ/w5BlueT.png)](https://www.web5nexus.com)
+[![Web5 Nexus](https://i.ibb.co/yShkFGZ/w5WhiteT.png)](https://web5.nexus)
 
 Web5 Nexus is a comprehensive and versatile web3 integration platform designed to simplify the process of incorporating blockchain technology into web2 applications. It provides developers with a plug and play solution for seamless integration of blockchain-based functionalities, eliminating the complexities and reducing development time and effort.
 

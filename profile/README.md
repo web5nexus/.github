@@ -1,4 +1,4 @@
-# Web5 Nexus
+# Web5 Nexus - Web3 Simplified: One SDK, Endless Possibilities for Seamless Integration & User Retention
 
 [![Web5 Nexus](https://i.ibb.co/D1FBzB1/w5WhiteT.png)](https://web5.nexus)
 

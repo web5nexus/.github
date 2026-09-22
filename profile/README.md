@@ -1,41 +1,67 @@
-# Web5 Nexus - Web3 Simplified: One SDK, Endless Possibilities for Seamless Integration & User Retention
+# Web5 Nexus
 
 [![Web5 Nexus](https://i.ibb.co/D1FBzB1/w5WhiteT.png)](https://web5.nexus)
 
-Web5 Nexus is a comprehensive and versatile web3 integration platform designed to simplify the process of incorporating blockchain technology into web2 applications. It provides developers with a plug and play solution for seamless integration of blockchain-based functionalities, eliminating the complexities and reducing development time and effort.
+**Ship Web3 products. Not vendor plumbing.**
 
-## Features
+Web5 Nexus is a product layer for wallets, fintechs, and product teams — swaps, fiat ramps, resilient RPC, contract checks, and developer SDKs in one family you can open today.
 
-- **Easy Integration**: The Web5 Nexus SDK offers a unified solution for integrating blockchain technology into web2 applications, making it easy for developers to incorporate features such as authentication, gaming integration, NFT marketplace, payment gateway, DeFi platforms, decentralized storage, and private blockchain support.
+---
 
-- **Supported Platforms**: The SDK supports various platforms including web, Android, iOS, Unity, Flutter, React Native, and ElectronJS, enabling developers to build applications across multiple devices and frameworks.
+## Live products
 
-- **Flexibility and Compatibility**: Web5 Nexus supports different programming languages and frameworks such as Typescript, JavaScript, React, React Native, Flutter, ElectronJS, Unity, and Python, allowing developers to leverage the power of blockchain without needing to learn new technologies or languages.
+| Product | What it does | Open |
+|---|---|---|
+| **CrossDEX** | Cross-chain and stablecoin swap aggregation across partner liquidity sources | [crossdex.web5.nexus](https://crossdex.web5.nexus/) |
+| **Ramp** | Fiat buy/sell flows via regulated partner rails (corridors and eligibility vary) | [ramp.web5.nexus](https://ramp.web5.nexus/) |
+| **ChainRouter** | One EVM RPC endpoint with upstream health checks and failover | [chainrouter.web5.nexus](https://chainrouter.web5.nexus/) |
+| **Web5 Audit** | Automated contract scans before users interact (not a formal audit engagement) | [audit.web5.nexus](https://audit.web5.nexus/) |
 
-## Future Plans and Vision
+---
 
-Web5 Nexus is committed to continuous improvement and expanding its capabilities to meet the evolving needs of developers. Our future plans include:
+## Developer SDKs & docs
 
-- **Enhanced Developer Tools**: We aim to provide developers with advanced tools and resources to streamline the integration process and enhance their productivity.
+Documented packages under `@web5nexus` (Auth Modal, ChainRouter, Bitcoin Core, Web5js):
 
-- **Expanded Integration Options**: We will continue to add support for additional blockchain networks, protocols, and services, enabling developers to integrate with a wide range of platforms and ecosystems.
+- **Docs:** [docs.web5.nexus](https://docs.web5.nexus/)
+- **Site:** [web5.nexus](https://web5.nexus/)
 
-- **Community and Ecosystem Growth**: We strive to foster an active and supportive developer community, providing forums for collaboration, knowledge sharing, and learning.
+---
 
-- **Cutting-Edge Innovations**: We are actively exploring emerging technologies and trends in the blockchain space to incorporate the latest advancements into our platform.
+## Who it’s for
 
-Join us in the Web3 revolution and unlock the full potential of blockchain technology with Web5 Nexus!
+- **Wallets & dApps** — keep users in one flow: auth, RPC, liquidity, fiat
+- **Fintech & payments** — partner fiat rails, stablecoin/cross-chain routing, light contract checks
+- **Product teams** — ship one infra job without assembling four vendors
 
-## Getting Started
+---
 
-To get started with Web5 Nexus, visit our [website](https://web5.nexus) for detailed documentation, installation instructions, API reference, and usage examples.
+## What’s next
 
-## Contributions and Support
+**Shared account layer** — projects, keys, usage, entitlements, support, and consolidated billing across modules.
 
-We welcome contributions from the developer community. If you encounter any issues, have suggestions for improvements, or want to contribute to the project, please visit our GitHub repository.
+**Later modules (planned)** — Wallet Analytics & CRM, multi-chain Payment Gateway, Notification Service, NFT & Token Tools, Onchain Doc Issuer, dApp Connect API.
 
-For general support and inquiries, please contact our support team at connect@web5.nexus .
+Roadmap items are plans, not shipping commitments.
+
+---
+
+## Boundaries
+
+- **Ramp** and tokenized-asset routes aggregate licensed partners — KYC and licenses sit with those providers.
+- **Web5 Audit** is an automated scanner, not a professional smart-contract audit or assurance letter.
+- Web5 Nexus operates today under **Merklebits Private Limited** (India).
+
+---
+
+## Links
+
+- Website: [web5.nexus](https://web5.nexus/)
+- Docs: [docs.web5.nexus](https://docs.web5.nexus/)
+- Contact: [connect@web5.nexus](mailto:connect@web5.nexus)
+
+---
 
 ## License
 
-The Web5 Nexus SDK is released under the [MIT License](https://opensource.org/licenses/MIT). Please review the LICENSE file for more details.
+Open-source packages under this organization are released under the [MIT License](https://opensource.org/licenses/MIT) unless a repo states otherwise. See each repository’s `LICENSE` file for details.

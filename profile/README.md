@@ -1,10 +1,13 @@
-# Web5 Nexus
-
-[![Web5 Nexus](https://i.ibb.co/D1FBzB1/w5WhiteT.png)](https://web5.nexus)
+<p>
+  <a href="https://web5.nexus">
+    <img src="https://i.ibb.co/D1FBzB1/w5WhiteT.png" alt="Web5 Nexus" width="40" height="40" />
+  </a>
+  &nbsp;<strong>Web5 Nexus</strong>
+</p>
 
 **Ship Web3 products. Not vendor plumbing.**
 
-Web5 Nexus is a product layer for wallets, fintechs, and product teams — swaps, fiat ramps, resilient RPC, contract checks, and developer SDKs in one family you can open today.
+Web5 Nexus is a product layer for wallets, fintechs, and product teams - swaps, fiat ramps, resilient RPC, contract checks, and developer SDKs in one family you can open today.
 
 ---
 
@@ -30,17 +33,17 @@ Documented packages under `@web5nexus` (Auth Modal, ChainRouter, Bitcoin Core, W
 
 ## Who it’s for
 
-- **Wallets & dApps** — keep users in one flow: auth, RPC, liquidity, fiat
-- **Fintech & payments** — partner fiat rails, stablecoin/cross-chain routing, light contract checks
-- **Product teams** — ship one infra job without assembling four vendors
+- **Wallets & dApps** - keep users in one flow: auth, RPC, liquidity, fiat
+- **Fintech & payments** - partner fiat rails, stablecoin/cross-chain routing, light contract checks
+- **Product teams** - ship one infra job without assembling four vendors
 
 ---
 
 ## What’s next
 
-**Shared account layer** — projects, keys, usage, entitlements, support, and consolidated billing across modules.
+**Shared account layer** - projects, keys, usage, entitlements, support, and consolidated billing across modules.
 
-**Later modules (planned)** — Wallet Analytics & CRM, multi-chain Payment Gateway, Notification Service, NFT & Token Tools, Onchain Doc Issuer, dApp Connect API.
+**Later modules (planned)** - Wallet Analytics & CRM, multi-chain Payment Gateway, Notification Service, NFT & Token Tools, Onchain Doc Issuer, dApp Connect API.
 
 Roadmap items are plans, not shipping commitments.
 
@@ -48,7 +51,7 @@ Roadmap items are plans, not shipping commitments.
 
 ## Boundaries
 
-- **Ramp** and tokenized-asset routes aggregate licensed partners — KYC and licenses sit with those providers.
+- **Ramp** and tokenized-asset routes aggregate licensed partners - KYC and licenses sit with those providers.
 - **Web5 Audit** is an automated scanner, not a professional smart-contract audit or assurance letter.
 - Web5 Nexus operates today under **Merklebits Private Limited** (India).
 
